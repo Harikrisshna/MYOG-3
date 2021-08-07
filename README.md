@@ -1,6 +1,2 @@
-# MYOG-3
-Notes:
->> Implemented Scoring system
->> Added shooter and bullet sprites
->> Changed font colour
->> Changed controls : WAD
+# p5.play-boilerplate
+Boiler plate for p5.play
